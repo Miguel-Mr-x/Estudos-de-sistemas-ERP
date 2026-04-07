@@ -4,24 +4,6 @@
 
 Uma pesquisa sobre os sistemas modernos de gestão empresarial, mais focados em ERP e saber o porquê de serem tão importantes para essas entidades e ao integrar outros sistemas, o gestor automatiza ciclos de trabalho, evita gargalos com dados sujos e garante informações muito mais precisas, dando um melhor respaldo às tomadas de decisão das organizações.
 
-## Fontes em vídeo:
-
-- https://www.youtube.com/watch?v=GsshtMhb8b0
-- https://www.youtube.com/watch?v=xbn-ahBIEOY&pp=ygUMZXJwIG8gcXVlIMOp
-- https://www.youtube.com/watch?v=Ejy4_6hbwlM&pp=ygUMc2lzdGVtYXMgZXJw
-- https://www.youtube.com/watch?v=tg6MPXgXOMQ&pp=ygUMc2lzdGVtYXMgZXJw
-- https://www.youtube.com/watch?v=gBXJ_PhlADQ
-
-## Fontes em Texto:
-- https://www.totvs.com/blog/erp/o-que-e-erp/
-- https://www.clicksign.com/blog/conheca-o-sistema-erp-o-que-e-erp-e-para-que-serve?gclid=CjwKCAjwhLPOBhBiEiwA8_wJHK8nXM12iCbqsaWu761EkNEwHYDLSEaG7pxQdR8HHxIc84HJmMGaCxoCqZsQAvD_BwE&adclick=CjwKCAjwhLPOBhBiEiwA8_wJHK8nXM12iCbqsaWu761EkNEwHYDLSEaG7pxQdR8HHxIc84HJmMGaCxoCqZsQAvD_BwE&utm_source=google&utm_medium=cpc&utm_campaign={campaign_name}&utm_term=&utm_content=&hsa_acc=2505125838&hsa_cam=23598099531&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23598101514
-- https://www.omie.com.br/blog/sistema-erp-o-que-e/
-- https://www.oracle.com/br/erp/what-is-erp/*
-- https://www.nomus.com.br/erpindustrial/
-- https://blog.vhsys.com.br/o-que-e-erp/#o-que-e-sistema-erp
-- https://clickup.com/pt-BR/blog/147852/erp-vs-crm?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_br_nnc_nb_trial_all-devices_troas_lp_x_all-departments_x_conglomerate_pt-nb&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_business-crm&utm_term=sistema%20de%20crm%20empresarial&utm_creative=772250605192_product1_rsa&utm_custom1=&utm_custom2=&utm_lptheme=&utm_lpmod=&utm_mt=p&gad_source=1&gad_campaignid=22980067405&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHGjNtHKKXrBvu6uKSRXTwbiFBMCSoakIlPzQzTeQgWPopt1oVGU_ghoC77YQAvD_BwE*
-
-* Fontes em inglês.
 
 ## Sistemas Modernos de Gestão: Integrando modelos ERP e CRM para o Sucesso
 
@@ -230,5 +212,24 @@ A adoção dessas ferramentas permite que as organizações reduzam custos opera
 - Quais os riscos de segurança ao integrar IA no ERP?
 - Como a automação ajuda a manter a higiene dos dados?
 - Como funciona a integração entre o ERP e o E-commerce?
+
+## Fontes em vídeo:
+
+- https://www.youtube.com/watch?v=GsshtMhb8b0
+- https://www.youtube.com/watch?v=xbn-ahBIEOY&pp=ygUMZXJwIG8gcXVlIMOp
+- https://www.youtube.com/watch?v=Ejy4_6hbwlM&pp=ygUMc2lzdGVtYXMgZXJw
+- https://www.youtube.com/watch?v=tg6MPXgXOMQ&pp=ygUMc2lzdGVtYXMgZXJw
+- https://www.youtube.com/watch?v=gBXJ_PhlADQ
+
+## Fontes em Texto:
+- https://www.totvs.com/blog/erp/o-que-e-erp/
+- https://www.clicksign.com/blog/conheca-o-sistema-erp-o-que-e-erp-e-para-que-serve?gclid=CjwKCAjwhLPOBhBiEiwA8_wJHK8nXM12iCbqsaWu761EkNEwHYDLSEaG7pxQdR8HHxIc84HJmMGaCxoCqZsQAvD_BwE&adclick=CjwKCAjwhLPOBhBiEiwA8_wJHK8nXM12iCbqsaWu761EkNEwHYDLSEaG7pxQdR8HHxIc84HJmMGaCxoCqZsQAvD_BwE&utm_source=google&utm_medium=cpc&utm_campaign={campaign_name}&utm_term=&utm_content=&hsa_acc=2505125838&hsa_cam=23598099531&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23598101514
+- https://www.omie.com.br/blog/sistema-erp-o-que-e/
+- https://www.oracle.com/br/erp/what-is-erp/*
+- https://www.nomus.com.br/erpindustrial/
+- https://blog.vhsys.com.br/o-que-e-erp/#o-que-e-sistema-erp
+- https://clickup.com/pt-BR/blog/147852/erp-vs-crm?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_br_nnc_nb_trial_all-devices_troas_lp_x_all-departments_x_conglomerate_pt-nb&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_business-crm&utm_term=sistema%20de%20crm%20empresarial&utm_creative=772250605192_product1_rsa&utm_custom1=&utm_custom2=&utm_lptheme=&utm_lpmod=&utm_mt=p&gad_source=1&gad_campaignid=22980067405&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHGjNtHKKXrBvu6uKSRXTwbiFBMCSoakIlPzQzTeQgWPopt1oVGU_ghoC77YQAvD_BwE*
+
+* *Fontes em inglês.
 
 Link do projeto no NotebookLM - https://notebooklm.google.com/notebook/3e322a61-b322-4c1d-a44c-62bf8e92c20b
