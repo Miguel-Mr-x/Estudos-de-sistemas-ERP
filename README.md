@@ -107,7 +107,8 @@ Automatiza e centraliza o ciclo de compras de bens e serviços, desde a requisi�
 ### MES (Manufacturing Execution System): 
 Monitora e controla a execução da produção no chão de fábrica em tempo real, fornecendo dados sobre eficiência de máquinas (OEE) e qualidade diretamente para os módulos de planejamento do ERP.
 
-### FSM (Field Service Management): Gerencia o trabalho de técnicos em campo, incluindo agendamento, despacho, rastreamento de ordens de serviço e uso de peças, garantindo que o histórico de serviço do cliente esteja sempre atualizado.
+### FSM (Field Service Management): 
+Gerencia o trabalho de técnicos em campo, incluindo agendamento, despacho, rastreamento de ordens de serviço e uso de peças, garantindo que o histórico de serviço do cliente esteja sempre atualizado.
 
 ### PLM (Product Lifecycle Management): 
 Gerencia todas as etapas da vida de um produto, do design inicial até o descarte, alimentando o ERP com informações detalhadas de engenharia e listas de materiais (BOM).
