@@ -34,8 +34,12 @@ Frequentemente inclui ou se integra a um módulo de CRM para gerenciar o relacio
 
 ### Estoque: 
 Controla a entrada e saída de mercadorias, saldos, movimentações internas, inventários e controle de lotes/validades. A integração permite que, ao realizar uma venda, o estoque seja atualizado instantaneamente.
-Produção (Manufatura): Focado no planejamento e controle da produção (PCP), gerencia a definição de produtos, listas de materiais (BOM), ordens de produção, cronogramas e controle de qualidade no chão de fábrica. 
-Compras e Suprimentos: Automatiza o gerenciamento de compras de materiais e serviços, incluindo cotações de preços, seleção de fornecedores e recebimento de mercadorias.
+
+### Produção (Manufatura): 
+Focado no planejamento e controle da produção (PCP), gerencia a definição de produtos, listas de materiais (BOM), ordens de produção, cronogramas e controle de qualidade no chão de fábrica. 
+
+### Compras e Suprimentos: 
+Automatiza o gerenciamento de compras de materiais e serviços, incluindo cotações de preços, seleção de fornecedores e recebimento de mercadorias.
 
 ### Recursos Humanos (RH): 
 Gerencia informações de funcionários, folha de pagamento, recrutamento, treinamentos, benefícios e avaliações de desempenho.
@@ -54,27 +58,37 @@ A grande vantagem dessa estrutura modular é a automação e sincronização: qu
 ## Quais são os riscos de não ter uma estratégia de integração?
 
 A ausência de uma estratégia de integração clara entre sistemas (como ERP e CRM) cria uma série de riscos operacionais, financeiros e de segurança que podem comprometer o crescimento de uma empresa.
+
 Os principais riscos identificados nas fontes são:
 
 ### Criação de Silos de Dados: 
 Sem integração, as informações ficam "presas" em departamentos ou sistemas específicos, tornando-se inacessíveis para outras áreas que delas necessitam. Isso impede uma visão unificada das operações e da jornada do cliente.
-Aumento de Erros e Retrabalho: A falta de comunicação entre sistemas obriga os funcionários a inserir os mesmos dados manualmente em múltiplas plataformas. Cada entrada manual é uma oportunidade para erros de digitação, duplicidade de registros ou uso de informações desatualizadas, o que gera faturas incorretas e falhas no estoque.
+
+### Aumento de Erros e Retrabalho: 
+A falta de comunicação entre sistemas obriga os funcionários a inserir os mesmos dados manualmente em múltiplas plataformas. Cada entrada manual é uma oportunidade para erros de digitação, duplicidade de registros ou uso de informações desatualizadas, o que gera faturas incorretas e falhas no estoque.
 
 ### Ineficiências Operacionais e Gargalos: 
 Processos que deveriam ser fluidos tornam-se lentos. Por exemplo, se o setor financeiro não tem acesso em tempo real aos dados de vendas, o faturamento é atrasado, impactando o fluxo de caixa. Além disso, gasta-se um tempo precioso corrigindo discrepâncias em vez de focar em atividades estratégicas.
 
 ### Perda da Integridade e Confiança nos Dados: 
 Quando os sistemas operam de forma independente, surgem dados conflitantes (ex: números de vendas diferentes no CRM e no ERP). Isso leva a uma perda de confiança nas informações, resultando em tomadas de decisão baseadas em suposições em vez de fatos.
-Vulnerabilidades de Segurança e Conformidade: Sistemas isolados possuem protocolos de segurança distintos, criando brechas que podem ser exploradas por cibercriminosos. A falta de uma visão centralizada dificulta a aplicação uniforme de atualizações de segurança e patches, aumentando o risco de violações de dados e penalidades por descumprimento de normas como a LGPD.
+
+### Vulnerabilidades de Segurança e Conformidade: 
+Sistemas isolados possuem protocolos de segurança distintos, criando brechas que podem ser exploradas por cibercriminosos. A falta de uma visão centralizada dificulta a aplicação uniforme de atualizações de segurança e patches, aumentando o risco de violações de dados e penalidades por descumprimento de normas como a LGPD.
 
 ### Baixa Adoção pelos Usuários: 
 Se os funcionários são forçados a navegar por múltiplas interfaces complexas e realizar tarefas repetitivas de ponte entre sistemas, a experiência do usuário é prejudicada. Isso gera resistência ao uso das ferramentas, fazendo com que o investimento em tecnologia não entregue o valor esperado.
-Redução da Competitividade: Sistemas desconectados resultam em tempos de resposta mais lentos aos clientes. Se uma equipe de suporte não consegue acessar o estoque em tempo real para responder a uma dúvida, o cliente pode buscar um concorrente que ofereça um serviço mais ágil e preciso.
-Dificuldade de Escalabilidade: Incompatibilidades entre sistemas dificultam a adoção de novas tecnologias ou a expansão para novos mercados, transformando a infraestrutura de TI em um obstáculo ao crescimento em vez de um facilitador.
+
+### Redução da Competitividade: 
+Sistemas desconectados resultam em tempos de resposta mais lentos aos clientes. Se uma equipe de suporte não consegue acessar o estoque em tempo real para responder a uma dúvida, o cliente pode buscar um concorrente que ofereça um serviço mais ágil e preciso.
+
+### Dificuldade de Escalabilidade: 
+Incompatibilidades entre sistemas dificultam a adoção de novas tecnologias ou a expansão para novos mercados, transformando a infraestrutura de TI em um obstáculo ao crescimento em vez de um facilitador.
 
 ## Quais são outros sistemas de gestão que organizações usam para agregar ao ERP?
 
 Além do CRM, que já discutimos, as organizações utilizam uma ampla gama de sistemas especializados para agregar funcionalidades que muitas vezes não são o foco principal de um ERP padrão ou que exigem recursos mais avançados. Integrar esses sistemas cria um ecossistema digital onde os dados fluem em tempo real, melhorando a precisão e a tomada de decisões.
+
 Aqui estão os principais sistemas de gestão frequentemente integrados ao ERP:
 
 ## 1. Gestão de Vendas e Experiência do Cliente
@@ -164,7 +178,8 @@ Algumas ferramentas permitem criar fluxos de trabalho inteligentes (workflow des
 Modelos de ML analisam dados históricos e sinais externos para prever a necessidade de reposição, evitando rupturas ou excesso de estoque.
 Planejamento Financeiro: Melhora a precisão do fluxo de caixa e detecta anomalias financeiras ou riscos de crédito antes que se tornem problemas graves.
 
-### Manutenção Preditiva: Integrada ao módulo de serviços de campo, a IA processa dados de sensores (IoT) para prever falhas em equipamentos e agendar manutenções preventivas automaticamente.
+### Manutenção Preditiva: 
+Integrada ao módulo de serviços de campo, a IA processa dados de sensores (IoT) para prever falhas em equipamentos e agendar manutenções preventivas automaticamente.
 
 ## 4. Processamento de Linguagem Natural (NLP) e IA Conversacional
 
@@ -232,5 +247,7 @@ A adoção dessas ferramentas permite que as organizações reduzam custos opera
 - https://clickup.com/pt-BR/blog/147852/erp-vs-crm?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_br_nnc_nb_trial_all-devices_troas_lp_x_all-departments_x_conglomerate_pt-nb&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_business-crm&utm_term=sistema%20de%20crm%20empresarial&utm_creative=772250605192_product1_rsa&utm_custom1=&utm_custom2=&utm_lptheme=&utm_lpmod=&utm_mt=p&gad_source=1&gad_campaignid=22980067405&gclid=CjwKCAjwhLPOBhBiEiwA8_wJHGjNtHKKXrBvu6uKSRXTwbiFBMCSoakIlPzQzTeQgWPopt1oVGU_ghoC77YQAvD_BwE*
 
 * *Fontes em inglês.
+* Mais fontes estão no link NotebookLM abaixo.
 
 Link do projeto no NotebookLM - https://notebooklm.google.com/notebook/3e322a61-b322-4c1d-a44c-62bf8e92c20b
+
